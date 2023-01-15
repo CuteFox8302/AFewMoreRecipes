@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " % ",
+    "%#%",
+    " % "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:dirt"
+    },
+    "%": {
+      "item": "minecraft:oak_plank"
+    }
+  },
+  "result": {
+    "item": "minecraft:totem_of_undying"
+  }
+}
