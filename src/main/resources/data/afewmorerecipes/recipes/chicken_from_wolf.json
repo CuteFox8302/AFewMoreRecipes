@@ -1,16 +1,14 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "#",
-    "#",
     "#"
   ],
   "key": {
     "#": {
-      "item": "minecraft:dirt"
+      "item": "minecraft:chicken_spawn_egg"
     }
   },
   "result": {
-    "item": "minecraft:coal"
+    "item": "minecraft:dog_spawn_egg"
   }
 }
